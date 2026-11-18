@@ -224,7 +224,7 @@ width: 100%;
     .footer .footer-bottom{
         background-color: #343a40;
         color: #686868;
-        width: 20px;
+        width: 100%px;
         text-align: center;
         padding-top: 20px;
         padding-bottom: 20px;

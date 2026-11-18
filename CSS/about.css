@@ -370,33 +370,3 @@ h3{
 }
 body {padding-top: 90px !important;
      }
-body,
-section,
-.content {
-display: block !important;
-float: none !important;
-}
-
-footer,
-.footer {
-width: 100%;
-clear: both;
-float: none;
-}
-footer,
-.footer {
-position: relative !important;
-left: auto !important;
-right: auto !important;
-margin-left: 0 !important;
-margin-right: 0 !important;
-width: 100% !important;
-float: none !important;
-clear: both !important;
-}
-
-section,
-.content {
-margin-left: 0 !important;
-width: 100% !important;
-}

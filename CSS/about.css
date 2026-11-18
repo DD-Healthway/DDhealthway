@@ -370,19 +370,3 @@ h3{
 }
 body {padding-top: 90px !important;
      }
-.vision-mission {
-display: flex;
-justify-content: space-between;
-align-items: flex-start;
-gap: 40px;
-width: 100%;
-box-sizing: border-box;
-padding: 20px;
-}
-
-.vision,
-.mission {
-width: 45%;
-margin: 0;
-box-sizing: border-box;
-}

@@ -370,3 +370,16 @@ h3{
 }
 body {padding-top: 90px !important;
      }
+body,
+section,
+.content {
+display: block !important;
+float: none !important;
+}
+
+footer,
+.footer {
+width: 100%;
+clear: both;
+float: none;
+}

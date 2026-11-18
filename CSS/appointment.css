@@ -10,7 +10,7 @@ body, html{
 }
 
 .logo img{
-    width: 70px;
+    width: 80px;
 }
 
 .nav{
@@ -19,7 +19,7 @@ body, html{
     top: 0;
     right: 0;
     left: 0;
-    height: 80px;
+    min-height: 80px;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
